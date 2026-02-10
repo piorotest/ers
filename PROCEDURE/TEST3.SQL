@@ -1,0 +1,6 @@
+
+  CREATE OR REPLACE EDITIONABLE PROCEDURE "ERS"."TEST3" as 
+begin
+null;
+end;
+/
