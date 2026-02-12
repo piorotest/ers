@@ -1,0 +1,2 @@
+
+  GRANT EXECUTE ON "ERS"."TEST4" TO "SRG";
